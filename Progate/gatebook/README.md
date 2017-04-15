@@ -1,6 +1,6 @@
 # README
 
-[Progate](https://prog-8.com/)のRailsやってみたよーっていう。
+[Progate](https://prog-8.com/)のRailsやってみたよーっていう。  
 途中から有料でもやもやしたよーっていう。
 
 ---
